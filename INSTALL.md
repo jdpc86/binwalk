@@ -100,7 +100,7 @@ $ (cd jefferson && sudo python setup.py install)
 
 ```bash
 # Install ubi_reader to extract UBIFS file systems
-$ sudo apt-get install liblzo2-dev python-lzo
+$ sudo apt-get install liblzo2-dev
 $ git clone https://github.com/jrspruitt/ubi_reader
 $ (cd ubi_reader && sudo python setup.py install)
 ```
